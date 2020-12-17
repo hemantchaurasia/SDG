@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="SyntheticDataGenerator:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/SyntheticDataGenerator_jar</output-path>
+    <output-path>$PROJECT_DIR$/out/artifacts/SDG</output-path>
     <root id="archive" name="SyntheticDataGenerator.jar">
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" />
